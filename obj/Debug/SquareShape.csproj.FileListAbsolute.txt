@@ -1,0 +1,9 @@
+C:\Users\Adkins\Desktop\c# apki\SquareShape\SquareShape\SquareShape\obj\Debug\SquareShape.csprojAssemblyReference.cache
+C:\Users\Adkins\Desktop\c# apki\SquareShape\SquareShape\SquareShape\obj\Debug\SquareShape.Form1.resources
+C:\Users\Adkins\Desktop\c# apki\SquareShape\SquareShape\SquareShape\obj\Debug\SquareShape.Properties.Resources.resources
+C:\Users\Adkins\Desktop\c# apki\SquareShape\SquareShape\SquareShape\obj\Debug\SquareShape.csproj.GenerateResource.cache
+C:\Users\Adkins\Desktop\c# apki\SquareShape\SquareShape\SquareShape\bin\Debug\SquareShape.exe.config
+C:\Users\Adkins\Desktop\c# apki\SquareShape\SquareShape\SquareShape\bin\Debug\SquareShape.exe
+C:\Users\Adkins\Desktop\c# apki\SquareShape\SquareShape\SquareShape\bin\Debug\SquareShape.pdb
+C:\Users\Adkins\Desktop\c# apki\SquareShape\SquareShape\SquareShape\obj\Debug\SquareShape.exe
+C:\Users\Adkins\Desktop\c# apki\SquareShape\SquareShape\SquareShape\obj\Debug\SquareShape.pdb

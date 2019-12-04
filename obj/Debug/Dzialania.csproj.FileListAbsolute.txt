@@ -1,0 +1,9 @@
+C:\Users\Adkins\Desktop\c# apki\dzialania\Dzialania\Dzialania\bin\Debug\Dzialania.exe.config
+C:\Users\Adkins\Desktop\c# apki\dzialania\Dzialania\Dzialania\bin\Debug\Dzialania.exe
+C:\Users\Adkins\Desktop\c# apki\dzialania\Dzialania\Dzialania\bin\Debug\Dzialania.pdb
+C:\Users\Adkins\Desktop\c# apki\dzialania\Dzialania\Dzialania\obj\Debug\Dzialania.csprojAssemblyReference.cache
+C:\Users\Adkins\Desktop\c# apki\dzialania\Dzialania\Dzialania\obj\Debug\Dzialania.Form1.resources
+C:\Users\Adkins\Desktop\c# apki\dzialania\Dzialania\Dzialania\obj\Debug\Dzialania.Properties.Resources.resources
+C:\Users\Adkins\Desktop\c# apki\dzialania\Dzialania\Dzialania\obj\Debug\Dzialania.csproj.GenerateResource.cache
+C:\Users\Adkins\Desktop\c# apki\dzialania\Dzialania\Dzialania\obj\Debug\Dzialania.exe
+C:\Users\Adkins\Desktop\c# apki\dzialania\Dzialania\Dzialania\obj\Debug\Dzialania.pdb
